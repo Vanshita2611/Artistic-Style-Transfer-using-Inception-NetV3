@@ -8,6 +8,16 @@ About Inception NetV3 Model:
 
 3. Here InceptioNetV3 model is used as the feature extractor.
 
+Loss Calculation:
+
+Style loss:
+The style loss is the average of the squared differences between the features and targets.
+
+Content loss:
+The content loss will be the sum of the squared error between the features and targets, then multiplied by a scaling factor (0.5).
+
+Gram matrix:
+A gram matrix is simply the matrix of the inner product of each vector and its corresponding vectors in the same. It is used to calculate the style loss in neural style transfer. As you can see in the image below it helps in the calculation of the features of the generated image.
 
 Advantages:
 
