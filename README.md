@@ -68,6 +68,9 @@ Hybrid Architectures:
 
 Combining the strengths of different architectures or incorporating attention mechanisms could lead to novel hybrid models that address specific challenges more effectively.
 
+Output:
+
+![image](https://github.com/Vanshita2611/Artistic-Style-Transfer-using-Inception-NetV3/assets/84024713/3892e01b-d959-4a26-9769-f990370da713)
 
 
 
